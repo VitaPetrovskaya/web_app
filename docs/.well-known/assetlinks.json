@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.lightweight.calculator",
+      "package_name": "com.lightweight.calculator",
+      "sha256_cert_fingerprints": [
+        "B1:E0:91:69:56:E9:C3:6F:C3:4F:78:38:06:0F:2D:B1:1B:9B:BA:31:CB:EA:40:07:AC:F5:30:9D:BA:EE:8D:E9"
+      ]
+    }
+  }
+]
